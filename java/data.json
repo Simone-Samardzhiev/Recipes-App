@@ -1,0 +1,64 @@
+{
+  "appetizers": [
+    {
+      "name": "appetizer",
+      "way": "make it dsadasd",
+      "ingredients": "bake ",
+      "index": 0
+    },
+    {
+      "name": "Enter the name",
+      "way": "Enter the way of making it",
+      "ingredients": "Enter the ingredients\na\n\na\na\na\n\na",
+      "index": 1
+    }
+  ],
+  "beverages": [
+    {
+      "name": "beverage",
+      "way": "make it",
+      "ingredients": "bake",
+      "index": 0
+    }
+  ],
+  "desserts": [
+    {
+      "name": "dessert",
+      "way": "make it",
+      "ingredients": "bake",
+      "index": 0
+    }
+  ],
+  "main courses": [
+    {
+      "name": "mine courses",
+      "way": "make it",
+      "ingredients": "bake",
+      "index": 0
+    }
+  ],
+  "salads": [
+    {
+      "name": "salad",
+      "way": "make it",
+      "ingredients": "bake",
+      "index": 0
+    }
+  ],
+  "sandwiches": [
+    {
+      "name": "sandwitch",
+      "way": "make it",
+      "ingredients": "bake",
+      "index": 0
+    }
+  ],
+  "soups and stews": [
+    {
+      "name": "soup",
+      "way": "make it",
+      "ingredients": "bake",
+      "index": 0
+    }
+  ]
+}
