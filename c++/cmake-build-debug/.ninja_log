@@ -1,8 +1,0 @@
-# ninja log v5
-240	4117	1699997727705900560	CMakeFiles/c__.dir/main.cpp.o	57023cdd0fc34ee6
-2	238	1699997723834024736	/home/simone/Desktop/My projects/Recipes App/c++/cmake-build-debug/c___autogen/timestamp	30b333ab0147fb58
-4117	4633	1699997728225884013	c__	d88e1bd64fa2c646
-33	60	1699262719192831731	CMakeFiles/c__.dir/c___autogen/mocs_compilation.cpp.o	9b1bbc93a8364093
-2	238	1699997723834024736	/home/simone/Desktop/My projects/Recipes App/c++/cmake-build-debug/c___autogen/mocs_compilation.cpp	30b333ab0147fb58
-2	238	1699997723834024736	c___autogen/mocs_compilation.cpp	30b333ab0147fb58
-2	238	1699997723834024736	c___autogen/timestamp	30b333ab0147fb58
