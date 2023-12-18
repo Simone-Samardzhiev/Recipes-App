@@ -1,0 +1,58 @@
+{
+    "appetizers": [
+        {
+            "cook": "make it",
+            "id": 0,
+            "ingredients": "bake ",
+            "name": "appetizer"
+        }
+    ],
+    "beverages": [
+        {
+            "cook": "make it",
+            "id": 0,
+            "ingredients": "bake",
+            "name": "beverage"
+        }
+    ],
+    "desserts": [
+        {
+            "cook": "desert",
+            "id": 1,
+            "ingredients": "desert",
+            "name": "desert"
+        }
+    ],
+    "main courses": [
+        {
+            "cook": "make it",
+            "id": 0,
+            "ingredients": "bake",
+            "name": "mine courses"
+        }
+    ],
+    "salads": [
+        {
+            "cook": "make it",
+            "id": 0,
+            "ingredients": "bake",
+            "name": "sandwitch"
+        }
+    ],
+    "sandwiches": [
+        {
+            "cook": "make it",
+            "id": 0,
+            "ingredients": "bake",
+            "name": "sandwitch"
+        }
+    ],
+    "soups and stews": [
+        {
+            "cook": "make it",
+            "id": 0,
+            "ingredients": "bake",
+            "name": "soup"
+        }
+    ]
+}
